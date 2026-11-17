@@ -105,18 +105,3 @@ My work and explorations focus on using computational thinking, digital tools an
 <sub>Thanks for visiting my profile. Let's connect and explore new possibilities through design and technology.</sub>
 
 </div>
-
-
----
-
-<div align="center">
-
-### Dream. Design. Compute. Create.
-
-<sub>Thanks for visiting my profile. Let's connect and explore new possibilities through design and technology.</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9A684A,55:26364A,100:101827&height=100&section=footer" width="100%" alt="Decorative footer"/>
-
-</div>
