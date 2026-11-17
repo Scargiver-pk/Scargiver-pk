@@ -85,15 +85,27 @@ My work and explorations focus on using computational thinking, digital tools an
 
 ## GitHub Activity
 
+
+---
+
+## GitHub Activity
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Scargiver-pk&show_icons=true&hide_border=true&bg_color=00000000&title_color=E8B36D&icon_color=9ACD70&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scargiver-pk&layout=compact&hide_border=true&bg_color=00000000&title_color=E8B36D&text_color=C9D1D9" alt="Most used languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scargiver-pk&bg_color=00000000&color=E8B36D&line=9ACD70&point=F5F1E8&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scargiver-pk&bg_color=0d1117&color=E8B36D&line=9ACD70&point=F5F1E8&area=true&hide_border=true&custom_title=Prasad%20Kaldate's%20Contribution%20Graph" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### Dream. Design. Compute. Create.
+
+<sub>Thanks for visiting my profile. Let's connect and explore new possibilities through design and technology.</sub>
+
+</div>
+
 
 ---
 
